@@ -1,0 +1,7 @@
+username,password,role
+admin,admin123,admin
+person1,person123,user
+admin1,admin123,admin
+admin2@gmail.com,admin123,admin
+user2,user123,user
+bob@gmail.com,bob123,admin
