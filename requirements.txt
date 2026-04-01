@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+spacy
+folium
+streamlit-folium
+matplotlib
+plotly
+osmnx
+geopy
+scikit-learn
+networkx
+requests
